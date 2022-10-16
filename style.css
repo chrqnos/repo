@@ -10,3 +10,18 @@
   background-size: contain;
   background-position: center;
 }
+.content{
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: aliceblue;
+}
+
+.content p{
+  margin: 20px auto;
+  font-weight: 100;
+  line-height: 25px;
+  font-size: larger;
+}
